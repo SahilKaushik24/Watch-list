@@ -236,3 +236,7 @@ function WatchedMovie({ movie }) {
     </li>
   );
 }
+
+function trial() {
+  return;
+}
